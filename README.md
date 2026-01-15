@@ -17,3 +17,4 @@ To run the project, Python 3 is required along with the pandas and requests libr
 Author: Andrew Ignatescu
 
 
+# interactive-three-statement-model
